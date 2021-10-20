@@ -1,0 +1,18 @@
+body {
+	background-color: #e0f1f8;
+}
+
+.mylogo{
+	max-width: 85%;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+    width: 35% !important;
+}
+
+i {
+	color: #ed8850;
+	
+}
